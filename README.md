@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-(https://img.icons8.com/color/48/000000/facebook.png)[facebook]
+[](images/facebook.svg)
 &nbsp;&nbsp;
 [https://img.icons8.com/color/48/000000/twitter--v1.png](https://twitter.com/lamlih_ahmed)
 &nbsp;&nbsp;
