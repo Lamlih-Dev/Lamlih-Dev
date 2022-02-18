@@ -33,8 +33,5 @@
 <img align="left" alt=".NET" src="images/net.png" width="30px"/>
 <br />
 <br />
-
-[twitter]: 
-[facebook]: 
-[instagram]: 
-[linkedin]: 
+<hr />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamlih-Dev&layout=compact&title_color=000000" style="width:40%;"/>
