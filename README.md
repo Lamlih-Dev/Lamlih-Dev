@@ -9,14 +9,13 @@
 
 ### Connect with me:
 
-[](images/facebook.svg)
+<a href="https://www.facebook.com/ahmed.lamlih.581/" target="_blank"><img src="images/facebook.svg"/></a>
 &nbsp;&nbsp;
-[https://img.icons8.com/color/48/000000/twitter--v1.png](https://twitter.com/lamlih_ahmed)
+<a href="https://twitter.com/lamlih_ahmed" target="_blank"><img src="images/twitter.svg"/></a>
 &nbsp;&nbsp;
-[https://img.icons8.com/fluency/48/000000/instagram-new.png](https://www.instagram.com/ahmed.lamlih/)
+<a href="https://www.instagram.com/ahmed.lamlih/" target="_blank"><img src="images/instagram.svg"/></a>
 &nbsp;&nbsp;
-[https://img.icons8.com/color/48/000000/linkedin.png](https://www.linkedin.com/in/lmldev/)
-
+<a href="https://www.linkedin.com/in/lmldev/" target="_blank"><img src="images/linkedin.svg"/></a>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][#]
@@ -32,7 +31,7 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/lamlih_ahmed
-[facebook]: https://www.facebook.com/ahmed.lamlih.581/
-[instagram]: https://www.instagram.com/ahmed.lamlih/
-[linkedin]: https://www.linkedin.com/in/lmldev/
+[twitter]: 
+[facebook]: 
+[instagram]: 
+[linkedin]: 
