@@ -22,6 +22,7 @@
 <img align="left" alt="HTML" src="images/html.svg" width="30px" style="padding-right:10px;"/>
 <img align="left" alt="CSS" src="images/css.png" width="30px"/>
 <img align="left" alt="Javascript" src="images/javascript.svg" width="30px"/>
+<img align="left" alt="Typescript" src="images/typescript.png" width="28px"/>
 <img align="left" alt="Bootstrap" src="images/bootstrap.svg" width="30px"/>
 <img align="left" alt="jQuery" src="images/jquery.png" width="30px"/>
 <img align="left" alt="React" src="images/react.svg" width="30px"/>
