@@ -26,6 +26,7 @@
 <img align="left" alt="Bootstrap" src="images/bootstrap.svg" width="30px"/>
 <img align="left" alt="jQuery" src="images/jquery.png" width="30px"/>
 <img align="left" alt="React" src="images/react.svg" width="30px"/>
+<img align="left" alt="Angular" src="images/angular.png" width="30px"/>
 <img align="left" alt="Solidity" src="images/solidity.png" width="30px"/>
 <img align="left" alt="Github" src="images/github.svg" width="30px"/>
 <img alt="Git" src="images/git.svg" width="30px"/>
