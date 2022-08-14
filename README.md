@@ -2,7 +2,7 @@
 
 ## I'm an Informatics Development Student and Developer !!
 
-- 📕 I’m currently learning everything.
+- 📕 I’m currently taking a break.
 - 👯 I’m looking to collaborate with other developers !
 - 🥅 2022 Goals: Learn more about web development / Front and Back End Frameworks.
 - ⚡ Informatics Development is my life !
