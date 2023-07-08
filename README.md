@@ -2,7 +2,7 @@
 
 ## I'm an Informatics Development Student and Developer !!
 
-- 📕 I’m currently learning ML for web dev.
+- 📕 I’m currently learning Docker.
 - 👯 I’m looking to collaborate with other developers !
 - 🥅 2023 Goals: Learn more about web development / Front and Back End Frameworks.
 - ⚡ Informatics Development is my life !
